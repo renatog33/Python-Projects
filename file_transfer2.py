@@ -61,15 +61,5 @@ b1.grid(row=5,column=1)
 
 
 
-#Function got getting the path for source
-    #Look up askdirectory() function from tkinter
-    #Insert method from Python
-
-    
-
-#Function that gets the destination
-
-
-
 
 
