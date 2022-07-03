@@ -4,7 +4,7 @@ These are the basic projects written in Python.  They use various modules such a
 
 ## Projects:
 - [Phonebook](#phonebook)
-- [Check Files Gui](#check_files_gui)
+- [Check Files Gui](#check-files-gui)
 
 ### Phonebook
 This project functions as a phone book for a user.  It saves contact's name, phone number, and 
